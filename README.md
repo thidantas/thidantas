@@ -9,7 +9,6 @@
 - 👯 I'm looking to collaborate on **AI**, **reverse engineering**, and **systems automation** for fun
 - 💬 Ask me about Any _Code and Payments Market_
 - 😄 Pronouns: He / His
-- 🎓 **Graduated in Mechanical Engineering**, with a strong foundation in problem-solving and system design.
 - ⚡ I have the power to turn coffee ☕ into beautiful, scalable, well-organized user interfaces 🎨
 - 🎓 I **graduated in Mechanical Engineering**, and it’s been an exciting journey!
 - 🌐 I’m absolutely **passionate about the Internet of Things (IoT)**, automation, and AI — I love working with smart tech!
