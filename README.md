@@ -30,7 +30,7 @@
 
 ### 💻 Tech Stacks, Languages and Tools
 <p align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/e34f26" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/html5/e34f26" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.w3.org/Style/CSS"><img src="https://cdn.simpleicons.org/css/663399" width="40" /></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/f7df1e" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org"><img src="https://cdn.simpleicons.org/typescript/3178c6" width="40" /></a>&nbsp;&nbsp;
