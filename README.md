@@ -31,7 +31,7 @@
 ### 💻 Tech Stacks, Languages and Tools
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/e34f26" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://raw.githubusercontent.com/github/explore/8144ae7e9ec2274bdb8f76bdbdb6e6509538c7a8/topics/css/css.png"><img src="https://cdn.simpleicons.org/css/663399" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/Style/CSS"><img src="https://cdn.simpleicons.org/css/663399" width="40" /></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/f7df1e" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org"><img src="https://cdn.simpleicons.org/typescript/3178c6" width="40" /></a>&nbsp;&nbsp;
   <a href="https://react.dev"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" /></a>&nbsp;&nbsp;
