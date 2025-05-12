@@ -30,13 +30,13 @@
 
 ### 💻 Tech Stacks, Languages and Tools
 <p align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/e34f26" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/></a>&nbsp;&nbsp;
   <a href="https://www.w3.org/Style/CSS"><img src="https://cdn.simpleicons.org/css/663399" width="40" /></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/f7df1e" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org"><img src="https://cdn.simpleicons.org/typescript/3178c6" width="40" /></a>&nbsp;&nbsp;
   <a href="https://react.dev"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" /></a>&nbsp;&nbsp;
   <a href="https://nodejs.org"><img src="https://cdn.simpleicons.org/node.js/5fa04e" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com"><img src="https://cdn.simpleicons.org/amazonwebservices/ff9900" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /></a>&nbsp;&nbsp;
   <a href="https://kotlinlang.org"><img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" width="40" /></a>&nbsp;&nbsp;
   <a href="https://developer.android.com"><img src="https://cdn.simpleicons.org/android/3ddc84" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.datadoghq.com"><img src="https://cdn.simpleicons.org/datadog/632ca6" width="40" /></a>&nbsp;&nbsp;
