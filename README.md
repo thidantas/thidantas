@@ -37,10 +37,14 @@
   <a href="https://react.dev"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" /></a>&nbsp;&nbsp;
   <a href="https://nodejs.org"><img src="https://cdn.simpleicons.org/node.js/5fa04e" width="40" /></a>&nbsp;&nbsp;
   <a href="https://aws.amazon.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://kotlinlang.org"><img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://developer.android.com"><img src="https://cdn.simpleicons.org/android/3ddc84" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://kotlinlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://developer.android.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://developer.apple.com/xcode/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="40"/></a>&nbsp;&nbsp;
   <a href="https://www.datadoghq.com"><img src="https://cdn.simpleicons.org/datadog/632ca6" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" /></a>&nbsp;&nbsp;
   <a href="https://amplitude.com"><img src="https://amplitude.com/nextjs-public/amplitude-icon.svg" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://vscode.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/></a>&nbsp;&nbsp;
 </p>
